@@ -41,11 +41,11 @@ export default {
     97: '',
   },
   pancakeProfile: {
-    56: '0xb3cc8f4fba1c69050613e62de799eafa42d3c8e3',
+    56: '0x76bf7517401B05363a38B9C2d152fB0410D13BB5',
     97: '0x4B683C7E13B6d5D7fd1FeA9530F451954c1A7c8A',
   },
   pancakeRabbits: {
-    56: '0xb3cc8f4fba1c69050613e62de799eafa42d3c8e3',
+    56: '0x76bf7517401B05363a38B9C2d152fB0410D13BB5',
     97: '0x60935F36e4631F73f0f407e68642144e07aC7f5E',
   },
   bunnyFactory: {
@@ -69,11 +69,11 @@ export default {
     97: '0x7b7b1583De1DeB32Ce6605F6deEbF24A0671c17C',
   },
   necroDolls: {
-    56: '0xb3cc8f4fba1c69050613e62de799eafa42d3c8e3',
+    56: '0x76bf7517401B05363a38B9C2d152fB0410D13BB5',
     97: '0x40Ee716eae6265eC0A45C5Bc5D0Ff9FC8676D3dD',
   },
   bids: {
-    56: '0x16D6bdCCC13b04da6Ee5F60E934BF8e10cAa1d28',
+    56: '0xcd493bec5096ad4e3D8ef3c045689D110852C689',
     97: '0xE2A184A6c029E31162B9c777078743adBAEAe070',
   },
 }
